@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/jutaz/angular-trumbowyg#readme",
   "dependencies": {
-    "angular": "^1.5.8",
-    "jquery": ">=1.8.0",
+    "angular": "1.6.4",
+    "jquery": "3.1.1",
     "trumbowyg": "^2.9.0"
   },
   "devDependencies": {
