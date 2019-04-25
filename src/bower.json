@@ -1,0 +1,25 @@
+{
+    "name": "angular-trumbowyg",
+    "version": "1.0.2",
+    "homepage": "https://github.com/jutaz/angular-trumbowyg",
+    "authors": [
+        "Wagner Bernardes Teixeira and Jutaz"
+    ],
+    "description": "A rich wysiwyg text editor directive for angularjs.",
+    "main": "dist/angular-trumbowyg.js",
+    "keywords": [
+        "angular-trumbowyg",
+        "wysiwyg-editor",
+        "text-editor",
+        "directive",
+        "angularjs"
+    ],
+    "dependencies": {
+        "angular": "1.6.4",
+        "jquery": "3.1.1",
+        "trumbowyg": "^2.9.0"
+    },
+    "ignore": [
+        "README.md"
+    ]
+}
